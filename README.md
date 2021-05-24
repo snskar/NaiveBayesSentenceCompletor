@@ -1,9 +1,6 @@
 # NaiveBayesSentenceCompletor
 This project uses naive Bayes probability analysis to predict words to complete incomplete sentences and classify them into categories. 
 
-
-Page path
-Home / ►Autumn Semester - 2020 / ►Centres / ►Centre For Artificial Intelligence / ►Machine Learning Foundations and Applications (AI4... / ►Topic 11 / ►Text Analysis with Naive Bayes
 Text Analysis with Naive Bayes
 1) Sentence classification: 
 
